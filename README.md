@@ -7,7 +7,8 @@ About me 👩🏼‍💻
 - 💻 I’m learning more about Web Development;
 - ⏰ In my free time, I like read some books and watch movies;
 - 🤝🏼 Feel free to reach out to me for some interesting discussion or a job offer;
-- 📧 You can send to me an email at maria.silva.fmgabriela@gmail.com
+- 📧 You can send to me an email at maria.silva.fmgabriela@gmail.com 
+- 👀 You can find me at LinkedIn too - https://www.linkedin.com/in/mariagabriela-ferreira02
 
 
 ⚙ Technologies
