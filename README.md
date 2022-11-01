@@ -15,5 +15,3 @@ About me 👩🏼‍💻
 - HTML
 - CSS
 - JavaScript
-- Git
-- GitHub
