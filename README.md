@@ -3,7 +3,7 @@
 
 About me 👩🏼‍💻
 - ✨ I like to discovery new technologies and develope web pages;
-- 📚 I’m currently studying HTML, CSS and JavaScript;
+- 📚 I’m currently studying HTML, CSS, JavaScript and ReactJS;
 - 💻 I’m learning more about Web Development;
 - ⏰ In my free time, I like read some books and watch movies;
 - 🤝🏼 Feel free to reach out to me for some interesting discussion or a job offer;
@@ -15,3 +15,4 @@ About me 👩🏼‍💻
 - HTML
 - CSS
 - JavaScript
+- ReactJS
